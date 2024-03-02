@@ -1,5 +1,5 @@
 Olá! Eu sou o João Rodolfo F. da Costa 
-#### Atualmente estou no 1° ano do SENAI, cursando Desenvolvimento de Sistemas
+#### Atualmente estou no SENAI, cursando Desenvolvimento de Sistemas
 
 [![@Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaorodolfo16/)
 [![@Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
