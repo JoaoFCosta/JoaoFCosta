@@ -18,6 +18,5 @@ Olá! Eu sou o João Rodolfo F. da Costa
 
 ### Momento de lazer
 <div style="display: inline_block"><br>
-    <img align="center" alt="XBOX" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white">
     <img align="center" alt="XBOX" src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white">
 </div>
