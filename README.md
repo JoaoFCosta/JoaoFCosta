@@ -5,7 +5,7 @@ Olá! Eu sou o João Rodolfo F. da Costa
 [![@Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 )](https://steamcommunity.com/id/XONES01)
 
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoFCosta&show_icons=true&theme=dracula&hide_border=true)
+![João GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoFCosta&show_icons=true&theme=dracula&hide_border=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFCosta&layout=compact&theme=dracula&hide_border=true)
 
 ### Tecnologias do dia a dia
