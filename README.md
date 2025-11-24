@@ -10,7 +10,7 @@
 <br>
 <br>
 📊 Estatísticas GitHub
-<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JoaoFCosta&show_icons=true&theme=dracula&hide_border=true"/> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFCosta&layout=compact&theme=dracula&hide_border=true"/> </div>
+<div align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFCosta&layout=compact&theme=dracula&hide_border=true"/> </div>
 <br>
 <br>
 💻 Tecnologias que uso no dia a dia
