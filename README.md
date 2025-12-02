@@ -8,10 +8,7 @@
 [![@Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 )](https://steamcommunity.com/id/XONES01)
 <br>
-<br>
-📊 Estatísticas GitHub
-<div align="center"><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoFCosta&layout=compact&theme=dracula&hide_border=true"/> </div>
-<br>
+
 <br>
 💻 Tecnologias que uso no dia a dia
 <br>
