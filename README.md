@@ -1,5 +1,6 @@
 👋 Olá! Eu sou o João Rodolfo F. da Costa<br>
-🎓 Atualmente estou cursando Desenvolvimento de Sistemas no SENAI.
+🎓 Técnico em Desenvolvimento de Sistemas
+🎓 Atualmente estou cursando Engenharia de Computação na USC.
 
 📱 Redes Sociais
 <br>
