@@ -1,4 +1,4 @@
-👋 Olá! Eu sou o João Rodolfo F. da Costa<br>
+👋 Olá! Eu sou o João<br>
 🎓 Técnico em Desenvolvimento de Sistemas<br>
 🎓 Atualmente estou cursando Engenharia de Computação na Unisagrado.
 
