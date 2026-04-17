@@ -1,6 +1,6 @@
 👋 Olá! Eu sou o João Rodolfo F. da Costa<br>
 🎓 Técnico em Desenvolvimento de Sistemas<br>
-🎓 Atualmente estou cursando Engenharia de Computação na USC.
+🎓 Atualmente estou cursando Engenharia de Computação na Unisagrado.
 
 📱 Redes Sociais
 <br>
