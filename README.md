@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou João Rodolfo
 
 🎓 Técnico em Desenvolvimento de Sistemas  
-🎓 Estudante de Engenharia de Computação na :contentReference[oaicite:0]{index=0}  
+🎓 Estudante de Engenharia de Computação na UNISAGRADO
 
 💻 Desenvolvedor Full Stack com foco em desenvolvimento web, APIs REST e integração entre front-end e back-end.  
 🚀 Atualmente aprimorando conhecimentos em React, ASP.NET Core, SQL Server e soluções voltadas para tecnologia e infraestrutura.
